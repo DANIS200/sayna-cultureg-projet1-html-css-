@@ -1,0 +1,11 @@
+#blog-page{
+    background-color:#c0c0c0;
+    margin: 30px;
+    padding: 10px;
+}
+table{
+    border-collapse: collapse;
+ }
+ td{
+    border: 1px solide black;
+ }
